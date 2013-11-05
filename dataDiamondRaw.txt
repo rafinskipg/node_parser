@@ -1,0 +1,90 @@
+verde
+-	Local/ horas/ tranquilidad/ leve
+-	Local/dias/tranquilidad/leve
+-	Local/semanas/tranquilidad/leve
+-	Local/horas/hito cercano/leve
+-	Local/dias/hito cercano/leve
+-	Local/semanas/hito cercano/leve
+-	Local/ horas/ tranquilidad/ leve
+-	Local/dias/tranquilidad/leve
+-	Local/semanas/tranquilidad/leve
+-	Local/horas/hito cercano/leve
+-	Local/dias/hito cercano/leve
+-	Local/semanas/hito cercano/leve
+-	Local/ horas/momento clave/ leve
+-	Local/dias/momento clave/leve
+-	Local/semanas/momento clave/leve
+-	Local/horas/tranquilidad/moderado
+-	Local/dias/tranquilidad/moderado
+-	Local/semanas/tranquilidad/moderado
+-	Local/horas/hito cercano/moderado
+-	Local/dias/hito cercano/moderado
+-	Local/semanas/hito cercano/moderado
+-	Local/horas/momento clave/moderado
+-	Local/dias/momento clave/moderado
+-	Local/semanas/momento clave/moderado
+amarillo
+-	Local/ horas/tranquilidad/grave
+-	Local/dias/tranquilidad/grave
+-	Local/semanas/tranquilidad/grave
+-	Local/horas/hito cercano/grave
+-	Local/dias/hito cercano/grave
+-	Local/semanas/hito cercano/grave
+-	Local/horas/momento clave/grave
+-	Local/dias/momento clave/grave
+-	Local/semanas/momento clave/grave
+-	Nacional/horas/tranquilidad/leve
+-	Nacional/dias/tranquilidad/leve
+-	Nacional/semanas/tranquilidad/leve
+-	Nacional/horas/hito cercano/leve
+-	Nacional/dias/hito cercano/leve
+-	Nacional/semanas/hito cercano/leve
+-	Nacional/horas/momento clave/leve
+-	Nacional/dias/momento clave/leve
+-	Nacional/semanas/momento clave/leve
+-	Nacional/horas/tranquilidad/moderado
+-	Nacional/dias/tranquilidad/moderado
+-	Nacional/semanas/tranquilidad/moderado
+-	Nacional/horas/hito cercano/moderado
+-	Nacional/dias/hito cercano/moderado
+-	Nacional/semanas/hito cercano/moderado
+-	Nacional/horas/momento clave/moderado
+-	Nacional/dias/momento clave/moderado
+-	Nacional/semanas/momento clave/moderado
+-	Internacional/horas/tranquilidad/leve
+-	Internacional/dias/tranquilidad/leve
+-	Internacional/semanas/tranquilidad/leve
+-	Internacional/horas/hito cercano/leve
+-	Internacional/dias/hito cercano/leve
+-	Internacional/semanas/hito cercano/leve
+-	Internacional/ horas/momento clave/leve
+-	Internacional/ dias/momento clave/leve
+-	Internacional/semanas/momento clave/leve
+rojo
+-	Nacional/horas/tranquilidad/grave
+-	Nacional/dias/tranquilidad/grave
+-	Nacional/semanas/tranquilidad/grave
+-	Nacional/ horas/hito cercano/grave
+-	Nacional/dias/hito cercano/grave
+-	Nacional/semanas/hito cercano/grave
+-	Nacional/horas/momento clave/grave
+-	Nacional/dias/momento clave/grave
+-	Nacional/semanas/momento clave/grave
+-	Internacional/horas/tranquilidad/moderado
+-	Internacional/dias/tranquilidad/moderado
+-	Internacional/semanas/tranquilidad/moderado
+-	Internacional/horas/hito cercano/moderado
+-	Internacional/dias/hito cercano/ moderado
+-	Internacional/semanas/hito cercano/ moderado
+-	Internacional/horas/momento clave/moderado
+-	Internacional/dias/momento clave/moderado
+-	Internacional /semanas/momento clave/moderado
+-	Internacional/horas/tranquilidad/grave
+-	Internacional/dias/tranquilidad/grave
+-	Internacional/semanas/tranquilidad/grave
+-	Internacional/horas/ hito cercano/grave
+-	Internacional/dias/hito cercano/grave
+-	Internacional/semanas/hito cercano/grave
+-	Internacional/ horas/ momento clave/grave
+-	Internacional/ dias/ momento clave/grave
+-	Internacional/semanas/ momento clave/grave
