@@ -1,0 +1,40 @@
+{
+  "id": "ad84d882-6b0f-4708-b504-cbea62d73f67",
+  "ficheros": [
+    {
+      "file": "0e13d8b7-be63-4b4c-947e-b9a34fa1206b.docx",
+      "originalName": "13a--primer-comunicado.docx",
+      "extension": "docx",
+      "size": 21003,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "85a75924-83f9-4f96-93e0-27119d9db2ab.docx",
+      "originalName": "13b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 20503,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "0cfd8058-ba86-4466-a544-8aa3fda1afb1.docx",
+      "originalName": "13c-argumentario.docx",
+      "extension": "docx",
+      "size": 22301,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "13. Marca",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:115%;font-family:Tahoma;\">Uso de\nla marca atendiendo a par&aacute;metros de seguridad corporativa (Argelia, Libia&hellip;).</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:115%;font-family:Tahoma;\">Falta de\nhomogeneidad con relaci&oacute;n al uso del logo, la marca o iconos del grupo por\nparte de empleados y de terceros.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:115%;font-family:Tahoma;\">Ca&iacute;da en\nla valoraci&oacute;n econ&oacute;mica de la marca.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Retirada\nde una marca (caso YPF).</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:25:13.772Z",
+  "fechaCreacion": "2013-10-28T07:25:13.772Z"
+}

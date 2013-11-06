@@ -1,0 +1,47 @@
+{
+  "id": "60b9f9ea-b11a-4e93-abbd-9cf2070e27c3",
+  "ficheros": [
+    {
+      "file": "ac21c23a-6121-4f38-999b-360d4867f3fb.docx",
+      "originalName": "20a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 22051,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "b9333d9b-c2a5-4d81-b326-598d9c5568a0.docx",
+      "originalName": "20b-segundo-comunicado.docx",
+      "extension": "docx",
+      "size": 21462,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "5a2477a9-071c-4bf4-b247-f272c9c2abb1.docx",
+      "originalName": "20c-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 20905,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "6ddb416d-428e-4e79-b474-c2e48e234057.docx",
+      "originalName": "20d-argumentario.docx",
+      "extension": "docx",
+      "size": 24708,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "20. Accidentes en instalaciones E&P, complejos industriales y factorías GLP",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Incendio o explosi&oacute;n en instalaciones de\nexploraci&oacute;n y producci&oacute;n</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Incendio o explosi&oacute;n en complejos petroqu&iacute;micos</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Accidentes laborales graves (con heridos graves o\nmuertos)</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Accidentes en instalaciones</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Nube t&oacute;xica</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:47:53.586Z",
+  "fechaCreacion": "2013-10-28T07:46:31.472Z"
+}

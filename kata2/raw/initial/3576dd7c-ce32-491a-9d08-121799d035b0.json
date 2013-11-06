@@ -1,0 +1,39 @@
+{
+  "id": "3576dd7c-ce32-491a-9d08-121799d035b0",
+  "ficheros": [
+    {
+      "file": "1c583d3b-e068-4927-aecb-150ba8a151ca.docx",
+      "originalName": "17a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 21075,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "f22c1760-f8a0-48f2-8e45-5848aa45b94d.docx",
+      "originalName": "17b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 20454,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "56d02c41-d751-4cb3-86e4-fce33ec9538a.docx",
+      "originalName": "17c-argumentario.docx",
+      "extension": "docx",
+      "size": 23083,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "17. Incumplimiento de acuerdos y/o contratos",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:55:49.210Z",
+  "fechaCreacion": "2013-10-28T07:31:01.364Z"
+}

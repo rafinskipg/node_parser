@@ -1,0 +1,25 @@
+{
+  "id": "3f525b13-2c2e-48d4-9ba0-84d4b631b566",
+  "ficheros": [
+    {
+      "file": "1fe8f626-3950-4b84-ada3-5ff61ca6bcaf.jpg",
+      "originalName": "imagen-fondo-home2.jpg",
+      "extension": "jpg",
+      "size": 156428,
+      "type": "image/jpeg"
+    }
+  ],
+  "documentos": [],
+  "titulo": "Factores que incrementan su importancia",
+  "tipo": {
+    "name": "Portada Seccion",
+    "id": 2
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-23T03:59:48.755Z",
+  "fechaCreacion": "2013-10-18T11:52:55.083Z"
+}

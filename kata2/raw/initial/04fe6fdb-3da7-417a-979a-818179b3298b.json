@@ -1,0 +1,25 @@
+{
+  "id": "04fe6fdb-3da7-417a-979a-818179b3298b",
+  "ficheros": [
+    {
+      "file": "9ae9748b-8ecd-4400-a8f0-9d30695f9e70.blob",
+      "originalName": "blob",
+      "extension": "blob",
+      "size": 3147,
+      "type": "image/png"
+    }
+  ],
+  "documentos": [],
+  "titulo": "Riesgos operacionales",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:43:48.908Z",
+  "fechaCreacion": "2013-10-28T07:43:26.172Z"
+}

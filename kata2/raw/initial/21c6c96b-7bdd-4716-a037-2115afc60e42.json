@@ -1,0 +1,40 @@
+{
+  "id": "21c6c96b-7bdd-4716-a037-2115afc60e42",
+  "ficheros": [
+    {
+      "file": "e183ac26-80df-4d9e-b15a-4dac25c5fd4d.docx",
+      "originalName": "5a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 19816,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "2881d81c-d815-4a35-b3ed-6d93bfe87456.docx",
+      "originalName": "5b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 19382,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "ff2190c0-bdf2-47ba-87b7-901d5dec0aff.docx",
+      "originalName": "5c-argumentario.docx",
+      "extension": "docx",
+      "size": 21646,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "5. Entorno / mercado",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Inestabilidad en el Sistema\nEcon&oacute;mico del pa&iacute;s en el que se opera.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Toma de decisiones de inversi&oacute;n\nbasadas en estimaciones de variables de entorno o mercado.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Limitada capacidad/flexibilidad\npara adaptarse a cambios en las condiciones de mercado o entorno. </span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Presi&oacute;n del entorno a favor del\ncierre o traslado de las instalaciones.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Cambios o desconocimiento de la\nnormativa fiscal</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Precio (aumento) de las materias\nprimas.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Insuficiente remplazo de\nreservas.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Dudas acerca de la viabilidad y\nrentabilidad del mercado de las Nuevas Energ&iacute;as.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">P&eacute;rdida de proveedores\nprincipales de materia prima.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Ca&iacute;da general del consumo.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Cambio\nen el balance de la oferta y la demanda del mercado.</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:09:38.536Z",
+  "fechaCreacion": "2013-10-28T07:08:14.082Z"
+}

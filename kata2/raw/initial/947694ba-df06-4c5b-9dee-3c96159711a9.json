@@ -1,0 +1,46 @@
+{
+  "id": "947694ba-df06-4c5b-9dee-3c96159711a9",
+  "ficheros": [
+    {
+      "file": "37a7714e-76d7-4c60-a8aa-b2879d91df35.docx",
+      "originalName": "26a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 22463,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "f9890eec-acbc-41d8-a938-5b52065103e7.docx",
+      "originalName": "26b-segundo-comunicado.docx",
+      "extension": "docx",
+      "size": 22532,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "02ebf4b6-3b5c-47b8-9e49-64230a10098f.docx",
+      "originalName": "26c-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 21538,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "517fd845-1feb-4172-9ccf-1b71d375d396.docx",
+      "originalName": "26d-argumentario.docx",
+      "extension": "docx",
+      "size": 23183,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "26. Accidentes en oleoductos",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:57:09.551Z",
+  "fechaCreacion": "2013-10-28T07:57:09.551Z"
+}

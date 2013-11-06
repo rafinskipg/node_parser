@@ -1,0 +1,42 @@
+{
+  "id": "438e3cb2-e572-46f1-8f26-ec7d680d9326",
+  "ficheros": [
+    {
+      "file": "e315860d-183d-44d2-b729-d06327c4f276.docx",
+      "originalName": "4a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 20079,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "9636dd3c-4a96-4d1d-a1f8-4075dc8fbc17.docx",
+      "originalName": "4b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 19393,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "520a2190-0798-4f41-983c-ee8acca22f6c.docx",
+      "originalName": "4c-argumentario.docx",
+      "extension": "docx",
+      "size": 20149,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "4. Riesgos vinculados a la competencia",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Riesgo de incurrir en pr&aacute;cticas\nanticompetitivas que tengan por objeto o efecto obstaculizar la libre\ncompetencia.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Entrada de nuevos\ncompetidores.&nbsp; </span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Entrada de otros patrocinadores\nen los programas de patrocinio de Repsol (competencia) </span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Amenaza\nde ejecuci&oacute;n del proyecto de modernizaci&oacute;n de refiner&iacute;as de la competencia.&nbsp;</span></li></ul>",
+  "subtitulo": "No lleva",
+  "autor": "Edelman",
+  "riesgo": "",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:07:23.238Z",
+  "fechaCreacion": "2013-10-28T07:07:23.238Z"
+}

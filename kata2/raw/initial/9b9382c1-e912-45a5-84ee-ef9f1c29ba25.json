@@ -1,0 +1,47 @@
+{
+  "id": "9b9382c1-e912-45a5-84ee-ef9f1c29ba25",
+  "ficheros": [
+    {
+      "file": "f87b2ca3-fd04-4f64-817d-f569c80ed596.docx",
+      "originalName": "25a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 23677,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "156bef6e-6a18-40d8-a5a5-c3dd788ac928.docx",
+      "originalName": "25b-segundo-comunicado.docx",
+      "extension": "docx",
+      "size": 23707,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "614bff1f-8dd7-4128-a953-46175ad47117.docx",
+      "originalName": "25c-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 22953,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "2387b79f-1133-4d75-9149-fb94cbfb7615.docx",
+      "originalName": "25d-argumentario.docx",
+      "extension": "docx",
+      "size": 25682,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "25. Accidentes de transporte marítimo",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Accidentes de transporte y trasiego mar&iacute;timo</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:54:53.178Z",
+  "fechaCreacion": "2013-10-28T07:54:37.675Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1f4614b6-b880-4780-96b1-16db0029d40c",
+  "ficheros": [
+    {
+      "file": "44fe824e-fb0f-49cf-976f-b0e64bc3f232.docx",
+      "originalName": "15a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 21575,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "b270236f-cbfc-4483-8ff3-4134c89ad494.docx",
+      "originalName": "15b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 21056,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "61145817-6d08-462b-b2c1-f690df6d6fe8.docx",
+      "originalName": "15c-argumentario.docx",
+      "extension": "docx",
+      "size": 23488,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "15. Dificultades financieras",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Rebaja de la calificaci&oacute;n\ncrediticia por parte de una agencia.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Ca&iacute;da continuada de la acci&oacute;n.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Incertidumbres y dudas respecto\nal cumplimiento del plan estrat&eacute;gico.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Impago de la contraparte.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Errores en el reporte de\nreservas.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Ausencia de liquidez.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Limitaci&oacute;n de cr&eacute;dito por parte\nde las entidades financieras.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Excesivo endeudamiento.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Entrada en concurso de\nacreedores y suspensi&oacute;n de pagos.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Entrada en concurso de\nacreedores de un cliente o proveedor principal.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Limitaci&oacute;n en la contrataci&oacute;n y\nejecuci&oacute;n de seguros para la Compa&ntilde;&iacute;a.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Informe desfavorable por los\nauditores.</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:28:06.365Z",
+  "fechaCreacion": "2013-10-28T07:28:06.365Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "6a4f8b06-3514-48a3-91ea-37621c21d98f",
+  "ficheros": [
+    {
+      "file": "1dcfe343-fc7c-4f95-a8bc-610768bfc64a.docx",
+      "originalName": "2a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 19926,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "e3ce9899-747a-4e4f-9f5f-a82f22bd10f4.docx",
+      "originalName": "2b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 19517,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "cd6d1373-436a-4580-9504-d1eb3cbac5c9.docx",
+      "originalName": "2c-argumentario.docx",
+      "extension": "docx",
+      "size": 21278,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "2. Corrientes de opinión crítica",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\">Mala percepci&oacute;n de las compa&ntilde;&iacute;as\npetrol&iacute;feras, existencia de generadores de opini&oacute;n en contra de la industria. </span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Ataques de partidos pol&iacute;ticos. </span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Acciones de organizaciones\necologistas, pol&iacute;ticas y/o vecinales, sindicales, empresariales o\nuniversitarias.</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-24T20:58:04.868Z",
+  "fechaCreacion": "2013-10-24T20:58:04.868Z"
+}

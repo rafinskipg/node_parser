@@ -1,0 +1,33 @@
+{
+  "id": "31a76d0f-a40d-4bfe-ae30-f59ba227ec3f",
+  "ficheros": [
+    {
+      "file": "3fb64961-0524-4ae6-a831-156d7b712c03.gif",
+      "originalName": "procedimientos--protocolos-amarillo.gif",
+      "extension": "gif",
+      "size": 41599,
+      "type": "image/gif"
+    },
+    {
+      "file": "b57245be-5e05-4105-888d-485d919e9157.jpg",
+      "originalName": "imagen--protocolos-amarilla.jpg",
+      "extension": "jpg",
+      "size": 40625,
+      "type": "image/jpeg"
+    }
+  ],
+  "documentos": [],
+  "titulo": "Protocolos para nivel amarillo",
+  "tipo": {
+    "name": "Base",
+    "id": 1
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "paisCiudad": "España",
+  "libres": "Nivel amarillo",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-23T04:03:11.490Z",
+  "fechaCreacion": "2013-08-01T13:51:26.155Z",
+  "cuerpo": "<p><span style=\"color:#222222;font-family:arial, sans-serif;font-size:13px;\">[Banner]</span></p><p><span style=\"color:#222222;font-family:arial, sans-serif;font-size:13px;\">[</span><strong>Gestiona la crisis de forma correcta</strong>&nbsp;e informa a la Direcci&oacute;n General de Comunicaci&oacute;n y de Presidencia.<span style=\"color:#222222;font-family:arial, sans-serif;font-size:13px;\">]</span></p>"
+}

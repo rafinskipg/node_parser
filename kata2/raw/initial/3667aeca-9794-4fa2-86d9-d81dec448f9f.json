@@ -1,0 +1,33 @@
+{
+  "id": "3667aeca-9794-4fa2-86d9-d81dec448f9f",
+  "ficheros": [
+    {
+      "file": "a85d9648-9bbd-4d14-a07d-8d9bcdc304c5.gif",
+      "originalName": "procedimientos--protocolos-rojo.gif",
+      "extension": "gif",
+      "size": 71912,
+      "type": "image/gif"
+    },
+    {
+      "file": "04ff319f-a5c2-4cbe-9f14-479cd6251a6b.jpg",
+      "originalName": "imagen--protocolos-roja.jpg",
+      "extension": "jpg",
+      "size": 64952,
+      "type": "image/jpeg"
+    }
+  ],
+  "documentos": [],
+  "titulo": "Protocolos para nivel rojo",
+  "tipo": {
+    "name": "Base",
+    "id": 1
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "paisCiudad": "España",
+  "libres": "Rojo",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-23T04:03:23.111Z",
+  "fechaCreacion": "2013-08-01T13:51:50.690Z",
+  "cuerpo": "<p><span style=\"color:#222222;font-family:arial, sans-serif;font-size:13px;\">[Banner]</span></p><p><span style=\"color:#222222;font-family:arial, sans-serif;font-size:13px;\">[</span><strong>Gestiona la crisis de forma correcta</strong>&nbsp;e informa a la Direcci&oacute;n General de Comunicaci&oacute;n y de Presidencia.<span style=\"color:#222222;font-family:arial, sans-serif;font-size:13px;\">]</span></p>"
+}

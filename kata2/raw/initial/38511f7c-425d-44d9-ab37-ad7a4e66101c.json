@@ -1,0 +1,40 @@
+{
+  "id": "38511f7c-425d-44d9-ab37-ad7a4e66101c",
+  "ficheros": [
+    {
+      "file": "2779fa48-3409-49b1-847b-caf0124eb594.docx",
+      "originalName": "7a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 21182,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "db40f2ed-0442-4509-b77b-27caf12f58c8.docx",
+      "originalName": "7b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 20744,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "eef2cf05-f412-48c0-90ee-3c78f2fa5f73.docx",
+      "originalName": "7c-argumentario.docx",
+      "extension": "docx",
+      "size": 21657,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "7. Operaciones corporativas",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Venta o fusi&oacute;n del accionista\nprincipal.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Cierre o venta de\ninstalaciones.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Desvinculaci&oacute;n del accionista\nprincipal.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Acometer\nprocesos de desinversi&oacute;n en determinadas &aacute;reas.</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:11:26.830Z",
+  "fechaCreacion": "2013-10-28T07:11:26.830Z"
+}

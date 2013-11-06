@@ -1,0 +1,40 @@
+{
+  "id": "d020fc21-c651-4c88-98ec-0452a5ecba86",
+  "ficheros": [
+    {
+      "file": "abf63117-7913-4103-b3d9-022e5f9ad5eb.docx",
+      "originalName": "18a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 20960,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "a43971d2-1f73-465c-83ae-addfce88d310.docx",
+      "originalName": "18b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 20381,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "b8d68927-7fdc-48b3-b292-6c64c3ce4c24.docx",
+      "originalName": "18c-argumentario.docx",
+      "extension": "docx",
+      "size": 22600,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "18. Incumplimiento legislativo",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Incumplimiento de la normativa\nvinculada a la seguridad y el medio ambiente. </span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Incumplimiento de la normativa\nlaboral. </span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Incumplimiento de sanciones y\nembargos internacionales a pa&iacute;ses.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Cumplimiento parcial o\nincumplimiento de la Ley de Protecci&oacute;n de Datos.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Ruptura de la propiedad\nindustrial.</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:31:47.329Z",
+  "fechaCreacion": "2013-10-28T07:31:47.329Z"
+}

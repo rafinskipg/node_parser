@@ -1,0 +1,46 @@
+{
+  "id": "3c95f096-0580-4a8b-9894-dca67b6fc3ed",
+  "ficheros": [
+    {
+      "file": "3e36740f-a62a-4fee-a532-12bb3dcea8fd.docx",
+      "originalName": "22a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 16539,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "38607404-0705-488a-9ae6-ca99b2a403c9.docx",
+      "originalName": "22b-segundo-comunicado.docx",
+      "extension": "docx",
+      "size": 16472,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "9890b5dd-bc76-4876-99c5-0c64e0461a33.docx",
+      "originalName": "22c-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 16173,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "d6fe009a-983d-4aa6-a420-f61ac026cd83.docx",
+      "originalName": "22d-argumentario.docx",
+      "extension": "docx",
+      "size": 17688,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "22. Accidente grave en instalaciones de clientes (GLP)",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:50:20.328Z",
+  "fechaCreacion": "2013-10-28T07:50:20.328Z"
+}
