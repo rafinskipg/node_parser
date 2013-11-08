@@ -1,0 +1,40 @@
+{
+  "id": "00193f74-0ff2-42d7-915e-648e336cc60e",
+  "ficheros": [
+    {
+      "file": "f8af8588-0170-46c7-8593-e6d26656f79e.docx",
+      "originalName": "10a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 20796,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "25588f0e-9c1f-4d1c-9d6b-46c42a961f04.docx",
+      "originalName": "10b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 20348,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "df72b070-8d80-4485-8117-aef8174c02e2.docx",
+      "originalName": "10c-argumentario.docx",
+      "extension": "docx",
+      "size": 23048,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "10. Medios de comunicación offline",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Falta de\nveracidad de informaci&oacute;n de la compa&ntilde;&iacute;a publicada en los medios. </span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Falta de veracidad en\ninformaci&oacute;n publicada por la compa&ntilde;&iacute;a. </span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Incidencias en caso de que una\npersona no autorizada act&uacute;e como portavoz de la compa&ntilde;&iacute;a</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Inadecuada gesti&oacute;n de la\ninformaci&oacute;n en relaci&oacute;n con los medios de comunicaci&oacute;n.</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:55:39.509Z",
+  "fechaCreacion": "2013-10-28T07:20:13.909Z"
+}

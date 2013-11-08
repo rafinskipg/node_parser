@@ -1,0 +1,47 @@
+{
+  "id": "8675fbaa-20df-44f1-b320-1b9b77222854",
+  "ficheros": [
+    {
+      "file": "1853c581-5bd4-442b-b74e-142b3bb56d96.docx",
+      "originalName": "8a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 21277,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "830163eb-2f8f-41d5-aa56-022c47d69216.docx",
+      "originalName": "8b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 20423,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "09104342-e5a0-4cdc-90bc-697c54a8cc7a.docx",
+      "originalName": "8c-argumentario.docx",
+      "extension": "docx",
+      "size": 22673,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "cb984140-c8c5-4cf5-87fc-0e9f34059bd9.blob",
+      "originalName": "blob",
+      "extension": "blob",
+      "size": 6878,
+      "type": "image/png"
+    }
+  ],
+  "documentos": [],
+  "titulo": "8. Gobierno Corporativo",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:115%;font-family:Tahoma;\">No informar\nsobre hechos relevantes a las autoridades (CNMV)</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:115%;font-family:Tahoma;\">Invalidaci&oacute;n\nde un acuerdo de la Junta General o del Consejo</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:17:27.578Z",
+  "fechaCreacion": "2013-10-28T07:17:27.578Z"
+}

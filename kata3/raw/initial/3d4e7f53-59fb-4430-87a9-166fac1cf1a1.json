@@ -1,0 +1,47 @@
+{
+  "id": "3d4e7f53-59fb-4430-87a9-166fac1cf1a1",
+  "ficheros": [
+    {
+      "file": "10ea6a8f-93df-4b1b-9f1e-da1698759869.docx",
+      "originalName": "28a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 21840,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "0fc76ca8-85c2-4e00-8145-dad68b74004c.docx",
+      "originalName": "28b-segundo-comunicado.docx",
+      "extension": "docx",
+      "size": 21822,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "3258ab63-b9c2-4328-9576-06831f18805e.docx",
+      "originalName": "28c-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 21261,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "b211bbdb-495b-4edb-bb88-2f2943f03f91.docx",
+      "originalName": "28d-argumentario.docx",
+      "extension": "docx",
+      "size": 21651,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "28. Catástrofes naturales",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Fen&oacute;menos meteorol&oacute;gicos que da&ntilde;an instalaciones</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Terremotos</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Inundaciones</span></li></ul>",
+  "entradilla": "No lleva",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "subtitulo": "No lleva",
+  "fechaModificacion": "2013-10-28T07:59:59.796Z",
+  "fechaCreacion": "2013-10-28T07:59:59.796Z"
+}

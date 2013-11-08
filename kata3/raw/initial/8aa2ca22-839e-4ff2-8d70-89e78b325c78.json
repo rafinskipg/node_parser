@@ -1,0 +1,47 @@
+{
+  "id": "8aa2ca22-839e-4ff2-8d70-89e78b325c78",
+  "ficheros": [
+    {
+      "file": "570b0a8f-9dff-4866-95bf-999a53808ea1.docx",
+      "originalName": "23a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 22705,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "50afd543-864c-4082-9779-5807c05dcc32.docx",
+      "originalName": "23b-segundo-comunicado.docx",
+      "extension": "docx",
+      "size": 22134,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "359125f4-9ed9-4c72-ad5f-3879e7c0d6e6.docx",
+      "originalName": "23c-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 21838,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "fdabaa92-1cfb-466b-a546-07ea6d0d236d.docx",
+      "originalName": "23d-argumentario.docx",
+      "extension": "docx",
+      "size": 22919,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "23. Vertido",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "no lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Afecciones medioambientales de las operaciones</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:52:07.484Z",
+  "fechaCreacion": "2013-10-28T07:52:07.484Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "4651b36d-fbd4-4900-bebf-7fe87098950c",
+  "ficheros": [
+    {
+      "file": "5c0cb5f5-6d1f-4c60-985e-7568ca404bd1.docx",
+      "originalName": "16a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 21539,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "cd80cee7-c191-4da7-9452-fb361fbe3e5e.docx",
+      "originalName": "16b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 21009,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "632e5734-191f-4d76-aaf5-9cc78c474ae6.docx",
+      "originalName": "16c-argumentario.docx",
+      "extension": "docx",
+      "size": 24895,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Falsedad documental en la\nformulaci&oacute;n de cuentas.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Inadecuado registro contable o\nreporte financiero.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Acusaciones de delito fiscal\npor parte de Hacienda.</span></li></ul>",
+  "titulo": "16. Irregularidades contables y/o financieras",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "paisCiudad": "España",
+  "libres": "Edelman",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:55:12.333Z",
+  "fechaCreacion": "2013-10-28T07:29:23.231Z"
+}

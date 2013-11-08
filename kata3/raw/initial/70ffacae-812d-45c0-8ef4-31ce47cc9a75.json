@@ -1,0 +1,40 @@
+{
+  "id": "70ffacae-812d-45c0-8ef4-31ce47cc9a75",
+  "ficheros": [
+    {
+      "file": "817b7130-632b-4e86-8d2f-52b15986e096.docx",
+      "originalName": "14a--primer-comunicado.docx",
+      "extension": "docx",
+      "size": 19697,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "74a8e620-a49f-4193-864e-7e526ddd9af7.docx",
+      "originalName": "14b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 19226,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "5c2fdab7-463d-4ecd-b722-b65c6852d29c.docx",
+      "originalName": "14c-argumentario.docx",
+      "extension": "docx",
+      "size": 20974,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "14. Reputación",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Gesti&oacute;n inadecuada de la\nreputaci&oacute;n de cara al exterior.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Incapacidad para anticipar\ntendencias en materia reputacional para alertar a la organizaci&oacute;n</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Impacto en la imagen de Repsol\nderivado de la mala actuaci&oacute;n de un piloto o persona que represente a la\ncompa&ntilde;&iacute;a</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Deterioro de la reputaci&oacute;n de\nla compa&ntilde;&iacute;a por conflictos de intereses entre los negocios y las &aacute;reas\ncorporativas</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Reducida\ncapacidad de control sobre la gesti&oacute;n que la agencia hace con terceros en\nnuestro nombre (derechos de autor, protecci&oacute;n de im&aacute;genes adecuada&hellip;)</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:26:06.474Z",
+  "fechaCreacion": "2013-10-28T07:26:06.474Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "94b1bcc1-1f44-4dd4-996d-b4b22ba8143e",
+  "titulo": "Procedimientos.",
+  "tipo": {
+    "name": "Portada Seccion",
+    "id": 2
+  },
+  "entradilla": "La Estrategia de Comunicación de Repsol  define  procedimientos y pautas de actuación para cada nivel  de crisis. En todos los casos, como regla general se debe:",
+  "ficheros": [
+    {
+      "file": "4088e752-7e2b-4b95-abd8-41a4cdd5a280.jpg",
+      "originalName": "portada-procedimientos.jpg",
+      "extension": "jpg",
+      "size": 40923,
+      "type": "image/jpeg"
+    }
+  ],
+  "subtitulo": "Esta página no tiene subtítulo",
+  "autor": "Edelman",
+  "paisCiudad": "España",
+  "libres": "Procedimientos",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-23T04:01:22.709Z",
+  "fechaCreacion": "2013-07-25T09:49:42.795Z",
+  "documentos": [
+    {
+      "nombre": "test",
+      "tipo": "EXCEL",
+      "url": "test"
+    }
+  ],
+  "riesgo": "Ninguno",
+  "cuerpo": "<ol><li><strong>Informar</strong> a la Direcci&oacute;n General de Comunicaci&oacute;n &nbsp;y de Presidencia.</li><li>Actuar con <strong>inmediatez</strong>.</li><li>Convocar el <strong><a href=\"http://www.google.com\">Comit&eacute; de Comunicaci&oacute;n de Crisis</a></strong>.&nbsp;</li></ol><p><span style=\"color:#4f81bd;\">[Destacado]</span>Protocolos crisis offline </p><ul><li>Nivel verde</li><li>Nivel Amarillo</li><li>Nivel Rojo</li></ul><p><span style=\"color:#4f81bd;\">[Destacado]</span>Protocolos crisis online </p><p>Gu&iacute;a de actuaci&oacute;n para crisis cuyo origen se ha generado en redes sociales<br /></p>"
+}

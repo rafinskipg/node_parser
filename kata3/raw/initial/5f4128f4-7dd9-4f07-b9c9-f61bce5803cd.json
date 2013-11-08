@@ -1,0 +1,40 @@
+{
+  "id": "5f4128f4-7dd9-4f07-b9c9-f61bce5803cd",
+  "ficheros": [
+    {
+      "file": "c60b7564-3e24-442b-9bf7-26448cd66bbf.docx",
+      "originalName": "6a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 21199,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "1044e860-42be-406a-8a66-844f36d0de02.docx",
+      "originalName": "6b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 20457,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "be5a3a66-6a43-4e20-9098-2b223ee1ccca.docx",
+      "originalName": "6c-argumentario.docx",
+      "extension": "docx",
+      "size": 22321,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "6. Socios/ filiales",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "cuerpo": "&bull;<span class=\"Apple-tab-span\" style=\"white-space:pre;\">\t</span>Limitada capacidad de control en negocios no operados y/o filiales.<br />&bull;<span class=\"Apple-tab-span\" style=\"white-space:pre;\">\t</span>Acuerdos con socios con problemas legales, pol&iacute;ticos o de solvencia.<br />&bull;<span class=\"Apple-tab-span\" style=\"white-space:pre;\">\t</span>Limitada capacidad de control sobre la informaci&oacute;n publicada por socios<br />",
+  "subtitulo": "No lleva",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:09:28.883Z",
+  "fechaCreacion": "2013-10-28T07:09:28.883Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "37349174-93ce-41a0-8225-bd94659766cf",
+  "ficheros": [
+    {
+      "file": "b01a3321-0b90-48a3-80af-eb3609cae04c.docx",
+      "originalName": "24a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 23931,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "67abdb32-4d52-4a95-884c-655477242680.docx",
+      "originalName": "24b-segundo-comunicado.docx",
+      "extension": "docx",
+      "size": 23526,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "75b1046c-aab7-4bb4-82f5-9a665531cf25.docx",
+      "originalName": "24c-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 23018,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "0ac070a5-0356-4495-bf33-56de356701b2.docx",
+      "originalName": "24d-argumentario.docx",
+      "extension": "docx",
+      "size": 25636,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "entradilla": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Accidentes de transporte y trasiego de producto\npor carretera</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Accidentes de transporte y trasiego de producto\nferroviario</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Accidentes en reparto de bombonas de butano</span></li></ul>",
+  "titulo": "24. Accidentes de transporte terrestre",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "subtitulo": "No lleva",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:55:58.504Z",
+  "fechaCreacion": "2013-10-28T07:53:07.918Z"
+}

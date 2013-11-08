@@ -1,0 +1,47 @@
+{
+  "id": "c6c28dc4-137d-430a-bc58-5c500e529e78",
+  "ficheros": [
+    {
+      "file": "dd62381e-5b31-42dd-a144-8b8e09914dc8.docx",
+      "originalName": "29a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 22578,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "b075950a-4ac7-48f5-8b4c-c20043f0b54d.docx",
+      "originalName": "29b-segundo-comunicado.docx",
+      "extension": "docx",
+      "size": 22206,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "7bbb7d84-aadb-49df-9cba-c21d0eb2ef57.docx",
+      "originalName": "29c-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 21248,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "3127569f-db30-4a16-b79f-b610b39d0c2f.docx",
+      "originalName": "29d-argumentario.docx",
+      "extension": "docx",
+      "size": 22244,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "29. Acciones criminales sobre las instalaciones",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Atentado, amenaza o ataque terrorista</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Sabotaje de las instalaciones propias o ajenas por\npersonal propio o ajeno</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T08:01:55.752Z",
+  "fechaCreacion": "2013-10-28T08:01:55.752Z"
+}

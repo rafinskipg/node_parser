@@ -1,0 +1,47 @@
+{
+  "id": "0b17db3f-4164-46f6-ad1e-bbc3ec10671c",
+  "ficheros": [
+    {
+      "file": "aff7a481-17a1-4a03-8ca3-3f882625cbb2.docx",
+      "originalName": "21a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 15951,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "e7114058-bcef-4501-8c2c-fdd811c0b600.docx",
+      "originalName": "21b-segundo-comunicado.docx",
+      "extension": "docx",
+      "size": 16200,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "1a6c18b7-8b45-436f-b515-873a8eda5c5d.docx",
+      "originalName": "21c-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 15297,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "39aa60d5-5e8a-4f6d-a342-de2c8b0486b1.docx",
+      "originalName": "21d-argumentario.docx",
+      "extension": "docx",
+      "size": 15604,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "21. Accidentes en estaciones de servicio y en otros puntos de venta",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Accidente grave en instalaciones AutoGas</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:56:09.964Z",
+  "fechaCreacion": "2013-10-28T07:49:02.241Z"
+}

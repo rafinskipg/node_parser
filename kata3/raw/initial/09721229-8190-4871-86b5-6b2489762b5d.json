@@ -1,0 +1,46 @@
+{
+  "id": "09721229-8190-4871-86b5-6b2489762b5d",
+  "ficheros": [
+    {
+      "file": "774a5db6-60d4-4498-984e-d4bfc298d114.docx",
+      "originalName": "27a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 22751,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "9f0e8bee-9378-4743-a326-0fef3b6ef4d5.docx",
+      "originalName": "27b-segundo-comunicado.docx",
+      "extension": "docx",
+      "size": 22624,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "ce81bd1a-c0fb-4d4b-a2f4-1fad3a85c7e3.docx",
+      "originalName": "27c-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 21388,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "d85f22d0-a366-47f7-919e-d786352a1207.docx",
+      "originalName": "27d-argumentario.docx",
+      "extension": "docx",
+      "size": 21520,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "27. Problemas de suministro",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "no lleva",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:57:59.310Z",
+  "fechaCreacion": "2013-10-28T07:57:59.310Z"
+}

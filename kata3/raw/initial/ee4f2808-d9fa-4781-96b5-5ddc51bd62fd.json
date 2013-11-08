@@ -1,0 +1,47 @@
+{
+  "id": "ee4f2808-d9fa-4781-96b5-5ddc51bd62fd",
+  "ficheros": [
+    {
+      "file": "66b47ccb-7e4d-40cb-a0fd-332678b846a7.docx",
+      "originalName": "30a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 21883,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "ad17a6a6-fd00-4b45-9569-94c307bb31de.docx",
+      "originalName": "30b-segundo-comunicado.docx",
+      "extension": "docx",
+      "size": 21347,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "31e9c3f7-c667-4a7d-8a87-a5e757227167.docx",
+      "originalName": "30c-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 21327,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "fe1e2246-1642-4026-8638-80291f0ce8aa.docx",
+      "originalName": "30d-argumentario.docx",
+      "extension": "docx",
+      "size": 22902,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "30. Producto en mal estado",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "no lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Reclamaciones de clientes por la mala calidad del\nproducto</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Retirada del producto del mercado</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;font-family:Tahoma;\">Productos defectuosos o fuera de especificaci&oacute;n</span></li></ul>",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T08:12:06.122Z",
+  "fechaCreacion": "2013-10-28T08:12:06.122Z"
+}

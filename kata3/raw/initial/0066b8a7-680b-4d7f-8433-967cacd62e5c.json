@@ -1,0 +1,14 @@
+{
+  "titulo": "Corporativos",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "paisCiudad": "Madrid",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-24T20:48:10.918Z",
+  "fechaCreacion": "2013-10-24T20:48:10.918Z"
+}

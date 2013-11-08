@@ -1,0 +1,20 @@
+{
+  "id": "d0bdce5e-4963-413b-8b1e-90d49fe27106",
+  "ficheros": [],
+  "documentos": [],
+  "titulo": "Anexos",
+  "tipo": {
+    "name": "Portada Seccion",
+    "id": 2
+  },
+  "entradilla": "Anexo.",
+  "subtitulo": "Anexo",
+  "paisCiudad": "España",
+  "libres": "Anexos",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-23T04:22:36.423Z",
+  "fechaCreacion": "2013-08-01T13:02:22.104Z",
+  "autor": "Edelman",
+  "riesgo": "Todos",
+  "cuerpo": "kendo pasando datos entre modelo"
+}

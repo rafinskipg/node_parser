@@ -1,0 +1,40 @@
+{
+  "id": "964a54e4-4afb-4995-8238-f4c3d981a07a",
+  "ficheros": [
+    {
+      "file": "5fdc471d-a03f-4e6e-9298-1b7194becad4.docx",
+      "originalName": "19a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 20929,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "7f1e5298-f9f9-41c3-9f32-cf4668bdbfbd.docx",
+      "originalName": "19b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 20325,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "39b47814-1336-4f74-ae62-12eca3239676.docx",
+      "originalName": "19c-argumentario.docx",
+      "extension": "docx",
+      "size": 23084,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "19. Multas y sanciones",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Apertura de expedientes.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Multas y sanciones.&nbsp;</span></li></ul>",
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:33:07.647Z",
+  "fechaCreacion": "2013-10-28T07:33:07.647Z"
+}

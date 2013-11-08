@@ -1,0 +1,41 @@
+{
+  "id": "177564f8-3530-4c37-bec7-2e28e6b8817c",
+  "ficheros": [
+    {
+      "file": "d0ea20ec-9dd5-4d7a-b189-bfcfd6e2ed47.docx",
+      "originalName": "3a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 19705,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "4387c556-8409-4e99-9159-b27648535731.docx",
+      "originalName": "3b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 19466,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "20405ff3-6d1c-4e57-995a-bf9829b01059.docx",
+      "originalName": "3c-argumentario.docx",
+      "extension": "docx",
+      "size": 21807,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "3. Dependencia de decisiones y procesos de los Gobiernos y/o la Administración Pública.",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Nacionalizaci&oacute;n de activos.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Intervenci&oacute;n de mercados:\nestablecimiento de cuotas y otras restricciones.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">P&eacute;rdida\nde licencias o autorizaciones que afecten a la continuidad de las operaciones.</span></li></ul>",
+  "autor": "Edelman",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:06:20.532Z",
+  "fechaCreacion": "2013-10-28T07:06:20.532Z"
+}

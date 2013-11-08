@@ -1,0 +1,40 @@
+{
+  "id": "7ff04fdb-5833-469e-969d-bb8f7e04595e",
+  "ficheros": [
+    {
+      "file": "83e04674-74e4-40e9-95d7-76eaf934f922.docx",
+      "originalName": "12a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 21150,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "d67ca253-760c-46c2-8734-0e540d1d7316.docx",
+      "originalName": "12b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 20243,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "00a48441-36bf-4d35-b64a-73a34e28c0c1.docx",
+      "originalName": "12c-argumentario.docx",
+      "extension": "docx",
+      "size": 23180,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "12. Filtraciones / rumores",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:115%;font-family:Tahoma;\">Filtraci&oacute;n\no p&eacute;rdida de informaci&oacute;n confidencial al exterior. </span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:115%;font-family:Tahoma;\">Filtraciones\nde contenidos sensibles, de car&aacute;cter privado o confidencial.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:115%;font-family:Tahoma;\">Propagaci&oacute;n\nde rumores infundados, sabotajes o acusaciones falsas.</span></li></ul>",
+  "subtitulo": "No lleva",
+  "paisCiudad": "España",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-28T07:23:34.518Z",
+  "fechaCreacion": "2013-10-28T07:23:34.518Z"
+}

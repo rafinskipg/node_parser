@@ -1,0 +1,519 @@
+{
+  "nodes": [
+    {
+      "name": "home1-esp",
+      "id": "b8528299-e2f8-421a-9170-9a4e800c15e9",
+      "nodes": []
+    },
+    {
+      "name": "home1-eng",
+      "id": "fd773a75-6588-4b50-8a55-f6b094a858ff",
+      "nodes": []
+    },
+    {
+      "name": "home2-esp",
+      "id": "3f525b13-2c2e-48d4-9ba0-84d4b631b566",
+      "nodes": []
+    },
+    {
+      "name": "Portada Procedimientos-esp",
+      "id": "94b1bcc1-1f44-4dd4-996d-b4b22ba8143e",
+      "nodes": [
+        {
+          "name": "Protocolos-esp",
+          "id": "4f729cb5-4b06-4675-872a-81ba65bf96e1",
+          "nodes": [
+            {
+              "name": "Protocolos para nivel verde-esp",
+              "id": "2f0ac730-5706-4085-8fa6-13cac8684d64",
+              "nodes": []
+            },
+            {
+              "name": "Protocolos para nivel amarillo-esp",
+              "id": "31a76d0f-a40d-4bfe-ae30-f59ba227ec3f",
+              "nodes": []
+            },
+            {
+              "name": "Protocolos para nivel rojo-esp",
+              "id": "3667aeca-9794-4fa2-86d9-d81dec448f9f",
+              "nodes": []
+            },
+            {
+              "name": "Protocolos para nivel online-esp",
+              "id": "8ff6472f-059e-47c8-89ba-0a0683361e4e",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "name": "Comite de crisis-esp",
+          "id": "624600b1-b213-4931-a29c-aab9f920aa47",
+          "nodes": [
+            {
+              "name": "Miembros del comite-esp",
+              "id": "36582ed8-6750-4541-8f27-6c297f5c01a7",
+              "nodes": []
+            },
+            {
+              "name": "Roles y funciones-esp",
+              "id": "2af3a5af-bc65-4da1-b5e5-89d36f5f2d45",
+              "nodes": []
+            },
+            {
+              "name": "Consideraciones-esp",
+              "id": "cb3ff470-2568-4351-bfe3-49a0cc1a7f41",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "name": "El Coordinador de crisis-esp",
+          "id": "2112b462-1ae4-4f56-a9fd-ceba6201d09d",
+          "nodes": []
+        },
+        {
+          "name": "Conoce la dirección general de comunicación-esp",
+          "id": "45d57c68-8bd7-4f54-9824-70ff83bcd1c9",
+          "nodes": [
+            {
+              "name": "Begoña Elices-esp",
+              "id": "b7c04754-3e43-4b13-8200-847938a143c5",
+              "nodes": []
+            },
+            {
+              "name": "Teresa de Isturiz-esp",
+              "id": "5b5bbb65-4263-4733-a4d2-1587bded43bc",
+              "nodes": []
+            },
+            {
+              "name": "Juan Navarro-esp",
+              "id": "cb410de7-786e-44bd-ae68-ec61dc3a3e69",
+              "nodes": []
+            },
+            {
+              "name": "Manuel-esp",
+              "id": "05010173-0767-4bb8-96b8-524b029eefd1",
+              "nodes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Escenarios de riesgo-esp",
+      "id": "5c7ef7ca-9553-4d59-ab6a-27fcd59cc6d3",
+      "nodes": [
+        {
+          "name": "Corporativos",
+          "id": "0066b8a7-680b-4d7f-8433-967cacd62e5c",
+          "nodes": [
+            {
+              "name": "Relaciones con el entorno / mercado / socios / competencia-esp",
+              "id": "b6906807-d7d9-48d6-be0e-d9e5c183521e",
+              "nodes": [
+                {
+                  "name": "1. Conflictos originados por empresas y/o personal externo (subcontratas)-esp",
+                  "id": "0d16d2f6-cd2d-4de0-8bf5-83ad3aade251",
+                  "nodes": []
+                },
+                {
+                  "name": "2. Corrientes de opinión crítica. - esp",
+                  "id": "6a4f8b06-3514-48a3-91ea-37621c21d98f",
+                  "nodes": []
+                },
+                {
+                  "name": "3. Dependencia de decisiones y procesos de los Gobiernos y/o la Administración Pública. -esp",
+                  "id": "177564f8-3530-4c37-bec7-2e28e6b8817c",
+                  "nodes": []
+                },
+                {
+                  "name": "4. Riesgos vinculados a la competencia - esp",
+                  "id": "438e3cb2-e572-46f1-8f26-ec7d680d9326",
+                  "nodes": []
+                },
+                {
+                  "name": "5. Entorno / mercado -esp",
+                  "id": "21c6c96b-7bdd-4716-a037-2115afc60e42",
+                  "nodes": []
+                },
+                {
+                  "name": "6. Socios/ filiales -esp",
+                  "id": "5f4128f4-7dd9-4f07-b9c9-f61bce5803cd",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "name": "Gobierno corporativo / Órganos de dirección - esp",
+              "id": "2037374b-dab0-4126-a043-58241161a04b",
+              "nodes": [
+                {
+                  "name": "7. Operaciones corporativas -esp",
+                  "id": "38511f7c-425d-44d9-ab37-ad7a4e66101c",
+                  "nodes": []
+                },
+                {
+                  "name": "8. Gobierno Corporativo -esp",
+                  "id": "8675fbaa-20df-44f1-b320-1b9b77222854",
+                  "nodes": []
+                },
+                {
+                  "name": "9. Actuaciones ilegales / no éticas - esp",
+                  "id": "fb89f256-3e5c-4e2c-9f25-f70087866670",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "name": "Gestión incorrecta de la información - esp",
+              "id": "b753b7ad-fae4-40fd-ad35-21302ca1cd6b",
+              "nodes": [
+                {
+                  "name": "10. Medios de comunicación offline -esp",
+                  "id": "00193f74-0ff2-42d7-915e-648e336cc60e",
+                  "nodes": []
+                },
+                {
+                  "name": "11. Crisis originadas en el entorno online -esp",
+                  "id": "6f05a58c-2ceb-4894-adb9-afb7ee1d15fc",
+                  "nodes": []
+                },
+                {
+                  "name": "12. Filtraciones / rumores -esp",
+                  "id": "7ff04fdb-5833-469e-969d-bb8f7e04595e",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "name": "Marca / Reputación -esp",
+              "id": "79980612-add3-4c1a-8159-18891a731eb5",
+              "nodes": [
+                {
+                  "name": "13. Marca - esp",
+                  "id": "ad84d882-6b0f-4708-b504-cbea62d73f67",
+                  "nodes": []
+                },
+                {
+                  "name": "14. Reputación -esp",
+                  "id": "70ffacae-812d-45c0-8ef4-31ce47cc9a75",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "name": "Cuestiones económico financieras -esp",
+              "id": "99fa4c3f-9517-4eea-bf8b-105b2882ba50",
+              "nodes": [
+                {
+                  "name": "15. Dificultades financieras - esp",
+                  "id": "1f4614b6-b880-4780-96b1-16db0029d40c",
+                  "nodes": []
+                },
+                {
+                  "name": "16. Irregularidades contables y/o financieras -esp",
+                  "id": "4651b36d-fbd4-4900-bebf-7fe87098950c",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "name": "Incidencias con contratos y/o legislación -esp",
+              "id": "ed2843a8-4ca4-4906-a4d4-3e2a9f27d8aa",
+              "nodes": [
+                {
+                  "name": "17. Incumplimiento de acuerdos y/o contratos-esp",
+                  "id": "3576dd7c-ce32-491a-9d08-121799d035b0",
+                  "nodes": []
+                },
+                {
+                  "name": "18. Incumplimiento legislativo",
+                  "id": "d020fc21-c651-4c88-98ec-0452a5ecba86",
+                  "nodes": []
+                },
+                {
+                  "name": "19. Multas y sanciones",
+                  "id": "964a54e4-4afb-4995-8238-f4c3d981a07a",
+                  "nodes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Riesgos operacionales -esp",
+          "id": "04fe6fdb-3da7-417a-979a-818179b3298b",
+          "nodes": [
+            {
+              "name": "Incidentes en instalaciones - esp",
+              "id": "35ceeac9-2c18-40c7-8fd5-ba048823598b",
+              "nodes": [
+                {
+                  "name": "20. Accidentes en instalaciones E&P, complejos industriales y factorías GLP -esp",
+                  "id": "60b9f9ea-b11a-4e93-abbd-9cf2070e27c3",
+                  "nodes": []
+                },
+                {
+                  "name": "21. Accidentes en estaciones de servicio y en otros puntos de venta-esp",
+                  "id": "0b17db3f-4164-46f6-ad1e-bbc3ec10671c",
+                  "nodes": []
+                },
+                {
+                  "name": "22. Accidente grave en instalaciones de clientes (GLP)",
+                  "id": "3c95f096-0580-4a8b-9894-dca67b6fc3ed",
+                  "nodes": []
+                },
+                {
+                  "name": "23. Vertido -esp",
+                  "id": "8aa2ca22-839e-4ff2-8d70-89e78b325c78",
+                  "nodes": []
+                },
+                {
+                  "name": "24. Accidentes de transporte terrestre-esp",
+                  "id": "37349174-93ce-41a0-8225-bd94659766cf",
+                  "nodes": []
+                },
+                {
+                  "name": "25. Accidentes de transporte marítimo -esp",
+                  "id": "9b9382c1-e912-45a5-84ee-ef9f1c29ba25",
+                  "nodes": []
+                },
+                {
+                  "name": "26. Accidentes en oleoductos",
+                  "id": "947694ba-df06-4c5b-9dee-3c96159711a9",
+                  "nodes": []
+                },
+                {
+                  "name": "27. Problemas de suministro",
+                  "id": "09721229-8190-4871-86b5-6b2489762b5d",
+                  "nodes": []
+                },
+                {
+                  "name": "28. Catástrofes naturales -esp",
+                  "id": "3d4e7f53-59fb-4430-87a9-166fac1cf1a1",
+                  "nodes": []
+                },
+                {
+                  "name": "29. Acciones criminales sobre las instalaciones -esp",
+                  "id": "c6c28dc4-137d-430a-bc58-5c500e529e78",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "name": "Incidencias en producto / sistemas informáticos y de seguridad - esp",
+              "id": "0c2688ef-5b89-43e7-8da6-b1aeeb69f775",
+              "nodes": [
+                {
+                  "name": "30. Producto en mal estado - esp",
+                  "id": "ee4f2808-d9fa-4781-96b5-5ddc51bd62fd",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "name": "Incidencias con el equipo humano - esp",
+              "id": "ca82bcc6-9dff-4bb1-970d-ffc4247717bc",
+              "nodes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "¿Cómo actuar?-esp",
+      "id": "1ffdc503-f1a5-4250-ab1e-6dcca37adda4",
+      "nodes": [
+        {
+          "name": "Estrategia de comunicación de Repsol-esp",
+          "id": "9d45dc53-87ea-44d2-b00f-364e0438984a",
+          "nodes": []
+        },
+        {
+          "name": "Niveles de crisis-esp",
+          "id": "cf9a1ebf-0eb9-4c75-829d-a24ed90a09fb",
+          "nodes": [
+            {
+              "name": "Nivel Verde-esp",
+              "id": "a5a744d7-a520-4d5c-8887-8065b4c67d3f",
+              "nodes": []
+            },
+            {
+              "name": "Nivel Amarillo-esp",
+              "id": "ac96cd98-0f7b-4e8a-81f4-6531028d1b71",
+              "nodes": []
+            },
+            {
+              "name": "Nivel Rojo-esp",
+              "id": "d71635c1-2f71-4688-884b-46c9b17464af",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "name": "Identifica tu nivel de crisis-esp",
+          "id": "f6ed1d60-5d00-4c90-9186-f4baf22ba83c",
+          "nodes": [
+            {
+              "name": "Identifica tu nivel online-esp",
+              "id": "9c6450f5-2f1b-44fb-bee0-512a37e11868",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "name": "Qué hacer y qué no hacer-esp",
+          "id": "b8d7f32a-1354-40af-812a-730787d01adc",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "name": "Manual de Crisis-esp",
+      "id": "b3251032-29e1-482f-89c8-01878d9aa104",
+      "nodes": [
+        {
+          "name": "1. Política de Comunicación en situaciones de crisis de Repsol-esp",
+          "id": "19426bd9-fa59-4cea-9d00-4dea9197f6c4",
+          "nodes": [
+            {
+              "name": "1.1. Objetivo-esp",
+              "id": "c6adf42b-d768-48e3-82da-da1061cdc6c3",
+              "nodes": []
+            },
+            {
+              "name": "1.2. ¿Qué es una crisis?-esp",
+              "id": "3e715e31-27ce-416c-91a6-4c1b396c31a8",
+              "nodes": []
+            },
+            {
+              "name": "1.3. Sucesos que podrían desencadenar una crisis-esp",
+              "id": "e7b5ecd2-c6bf-4470-9b01-70284392568b",
+              "nodes": []
+            },
+            {
+              "name": "1.4. Factores que incrementan la importancia-esp",
+              "id": "992eeeec-391f-499f-985d-0a6a90b5fc1c",
+              "nodes": []
+            },
+            {
+              "name": "1.5. Estrategia de Comunicación de Crisis de Repsol-esp",
+              "id": "c2cc3193-896d-40cd-bd67-5c266255d704",
+              "nodes": []
+            },
+            {
+              "name": "1.6. Consejos generales para la Comunicación de Crisis-esp",
+              "id": "82937523-e092-4a10-9f99-5fc1022566a8",
+              "nodes": []
+            },
+            {
+              "name": "1.7. Qué hacer y qué no hacer-esp",
+              "id": "8e50ec07-0aef-4068-978e-67a7de713894",
+              "nodes": []
+            },
+            {
+              "name": "1.8. Peculiaridades de una crisis online-esp",
+              "id": "8fc9c2f0-c119-427f-a482-4f39c1a14f96",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "name": "2. Comités de Crisis y Procedimiento general de comunicación-esp",
+          "id": "6702f3ff-62cf-4713-adcf-524285cc95d1",
+          "nodes": [
+            {
+              "name": "2.1. Lo primero que debe hacer-esp",
+              "id": "554e569f-96a4-40c1-8ef3-7525096e4490",
+              "nodes": []
+            },
+            {
+              "name": "2.2. Niveles-esp",
+              "id": "ae57c89e-a280-4393-9f36-fea7b2f9cfdb",
+              "nodes": []
+            },
+            {
+              "name": "2.3. Sistema de avisos y procedimientos-esp",
+              "id": "7ed4a17a-d550-46fe-8059-8a97162d4cfd",
+              "nodes": []
+            },
+            {
+              "name": "2.4. El Comité de Crisis-esp",
+              "id": "c82fe604-f866-4ada-aa6b-3378ddd0aaeb",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "id": "87688dae-e03c-45cf-bd80-a41209e915a2",
+          "nodes": [],
+          "name": "3.Casos de comunicación de crisis-esp"
+        },
+        {
+          "name": "4. Consejos básicos-esp",
+          "id": "02b479d4-f506-429e-9ac0-0f16ada60784",
+          "nodes": []
+        },
+        {
+          "name": "Descargar Guía de Crisis Online de Repsol-esp",
+          "id": "d3851b89-ae41-4425-9a9f-ba85a071ac5b",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "name": "Anexo-esp",
+      "id": "d0bdce5e-4963-413b-8b1e-90d49fe27106",
+      "nodes": [
+        {
+          "name": "Gestión con medios-esp",
+          "id": "436a09dd-33ac-4897-b11e-b0837f58f1b7",
+          "nodes": [
+            {
+              "name": "Decálogo de las relaciones con los periodistas-esp",
+              "id": "915fe49a-c2eb-4d1d-9c92-646d469cfcf9",
+              "nodes": []
+            },
+            {
+              "name": "Los géneros periodísticos y cómo utilizarlos-esp",
+              "id": "1022df13-e5c9-4c28-993f-654ef32ce4c0",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "name": "Social media-esp",
+          "id": "767dcb6f-06d5-4b04-83b1-4343740936f0",
+          "nodes": [
+            {
+              "name": "Consejos generales de Comunicación Online-esp",
+              "id": "7bb9a9ed-8df3-4e09-baaa-f1efb9425a4d",
+              "nodes": []
+            },
+            {
+              "name": "Mensajes de tipo respuesta-esp",
+              "id": "3405e7ae-ea5b-45a4-9a9a-eb40bad28bfd",
+              "nodes": []
+            },
+            {
+              "name": "Glosario online-esp",
+              "id": "6bff320a-7bf2-4d6c-b94f-26aab06124a2",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "name": "Materiales de Gestión-esp",
+          "id": "f7be89b8-bc97-4d14-9d00-f0be1b3facf0",
+          "nodes": [
+            {
+              "name": "Hoja de control para comprobar la preparación de la sala de crisis-esp",
+              "id": "5633eb0d-e9d4-4b52-9401-209e8c5ead68",
+              "nodes": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

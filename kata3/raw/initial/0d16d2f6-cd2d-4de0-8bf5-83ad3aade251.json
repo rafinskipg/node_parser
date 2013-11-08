@@ -1,0 +1,40 @@
+{
+  "id": "0d16d2f6-cd2d-4de0-8bf5-83ad3aade251",
+  "ficheros": [
+    {
+      "file": "5f09d004-8d80-41ed-95e3-6e9b3873d5c6.docx",
+      "originalName": "1a-primer-comunicado.docx",
+      "extension": "docx",
+      "size": 18365,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "06011722-9ba2-449a-8d3a-e0a186c54917.docx",
+      "originalName": "1b-mensajes-clave.docx",
+      "extension": "docx",
+      "size": 17580,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "973839f6-ab8f-4f19-8d62-7ed6d14739de.docx",
+      "originalName": "1c-argumentario.docx",
+      "extension": "docx",
+      "size": 20091,
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "documentos": [],
+  "titulo": "1. Conflictos originados por empresas y/o personal externo (subcontratas)",
+  "tipo": {
+    "name": "Escenario riesgo",
+    "id": 3
+  },
+  "entradilla": "No lleva",
+  "subtitulo": "No lleva",
+  "cuerpo": "<ul><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Falta de coordinaci&oacute;n o d&eacute;bil\nrelaci&oacute;n con empresas afines o cercanas.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Incumplimiento legal del\ncontratista o actuaciones por debajo de los est&aacute;ndares del Grupo.</span></li><li><span lang=\"ES\" style=\"font-size:9.0pt;line-height:110%;font-family:Tahoma;\">Retraso en proyectos de\nterceros de los que dependen nuestros proyectos u operaciones.</span></li></ul>",
+  "paisCiudad": "Madrid",
+  "libres": "No lleva",
+  "idioma": "es",
+  "fechaModificacion": "2013-10-24T20:57:16.283Z",
+  "fechaCreacion": "2013-10-24T20:51:51.362Z"
+}
