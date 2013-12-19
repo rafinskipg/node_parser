@@ -8,7 +8,7 @@ var Q = require('q'),
     rawFiles = 'raw/initial',
     outputDir = 'generated',
     originalDocsDir = 'raw/uploads/',
-    generatedDocsDir = 'generated/files',
+    generatedDocsDir = 'generated/files/anexos',
     originalJsonDir = 'raw/initial/',
     lazy = require('lazy'),
     _s = require('underscore.string'),
@@ -89,8 +89,9 @@ var getJsonAnexo = function(id){
         generateDocJson(json.ficheros[i]);
     });
     if(typeof(json.cuerpo) != 'undefined'){
-        json.cuerpo = cleanBody(json.cuerpo);
+        //json.cuerpo = cleanBody(json.cuerpo);
     }
+    json.id =  underscorify(json.titulo);
     
     return json;
 }
