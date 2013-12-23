@@ -1,8 +1,5 @@
 node_parser
 ===========
 
-Instead creating a json manually, i put some lines of node to my service
+Some non optimized scripts for doing tedious things like creating a json from a txt or sending files through http for testing a backend we were doing.
 
-KATA 1 - Parse one doc and create json file
-KATA 2 - Concatenate various json files, according to private project specifications, into one and rename some files to human readable names
-KATA 3 - Clean some jsons and concatenate into one, according to private project specifications
